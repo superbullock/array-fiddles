@@ -8,6 +8,7 @@ js-utility-problem-fiddles
 * **backwards** http://jsfiddle.net/5QgwK/
 * **evens** http://jsfiddle.net/7fseh/
 * **evens and odds** http://jsfiddle.net/4zfcz/
+* **Flag** http://jsfiddle.net/j95XA/
 * **reverse** http://jsfiddle.net/QqrLs/
 * **groceryList**  http://jsfiddle.net/2Lt4m/1/
 * **copyAndAdd** http://jsfiddle.net/nm5Q7/
