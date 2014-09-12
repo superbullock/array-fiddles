@@ -13,3 +13,5 @@ Array Fiddles
 * **groceryList**  http://jsfiddle.net/2Lt4m/1/
 * **copyAndAdd** http://jsfiddle.net/nm5Q7/
 * **compact:** http://jsfiddle.net/kcmLh/
+
+If you finish all the fiddes, do the 'aboutArrays' section of the Koans here https://github.com/devmountain/js-koans
