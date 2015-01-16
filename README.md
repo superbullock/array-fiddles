@@ -10,8 +10,8 @@ Array Fiddles
 * **evens and odds** http://jsfiddle.net/4zfcz/		~http://jsfiddle.net/4zfcz/263/
 * **Flag** http://jsfiddle.net/j95XA/				~http://jsfiddle.net/j95XA/28/
 * **reverse** http://jsfiddle.net/QqrLs/			~http://jsfiddle.net/QqrLs/23/
-* **groceryList**  http://jsfiddle.net/2Lt4m/1/		~
-* **copyAndAdd** http://jsfiddle.net/nm5Q7/
-* **compact:** http://jsfiddle.net/kcmLh/
+* **groceryList**  http://jsfiddle.net/2Lt4m/1/		~http://jsfiddle.net/2Lt4m/23/
+* **copyAndAdd** http://jsfiddle.net/nm5Q7/			~http://jsfiddle.net/nm5Q7/27/
+* **compact:** http://jsfiddle.net/kcmLh/			~http://jsfiddle.net/kcmLh/62/
 
 If you finish all the fiddes, do the 'aboutArrays' section of the Koans here https://github.com/devmountain/js-koans
